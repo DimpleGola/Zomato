@@ -1,0 +1,70 @@
+section{
+
+
+    background-image: url('image\\zomato.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:600px;
+    border: 5px solid black;
+    text-align: center;
+    
+
+
+
+}
+
+h2{
+    font-family: Okra, Helvetica, sans-serif;
+    color:white;
+    font-weight: bolder;
+    font-size:80px ;
+    text-align: center;
+    padding-top: 100px;
+    
+
+}
+
+p{
+    font-family: serif;
+    color:white;
+    font-weight: bolder;
+    font-size:20px ;
+    text-align: center;
+    padding-top:10px;
+    padding-right: 5px;
+
+}
+
+div,p{
+    font-family: serif;
+    color:white;
+    font-weight:normal ;
+    font-size:20px ;
+    text-align: center;
+    padding-top:10px;
+    padding-right:50px;
+
+}
+
+
+.top-right {
+    position: absolute;
+    top: 10px;
+    right:50px;
+    padding-top:15px;
+    
+}
+
+select, input[type="search"] {
+    margin-top: 10px;
+    
+}
+
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding-top:15px;
+}
